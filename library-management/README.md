@@ -1,19 +1,3 @@
-Part	Folder	Files
-✅ Part 1	db	database.py, base.py
-Part 2	models	book.py, member.py, borrowing.py
-Part 3	schemas	Pydantic models
-Part 4	repository	Database CRUD layer
-Part 5	services	Business logic
-Part 6	api	FastAPI routes
-Part 7	core	Config & Exceptions
-Part 8	dependencies	Dependency Injection
-Part 9	main.py	Application entry point
-Part 10	Alembic	Migration setup
-Part 11	Docker	Dockerfile & docker-compose
-Part 12	Tests	Unit & Integration tests
-Part 13	README	Complete documentation
-
-
 
 # Library Management System
 
